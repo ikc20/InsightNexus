@@ -1,1 +1,1 @@
-# MemoForge
+# InsightNexus
